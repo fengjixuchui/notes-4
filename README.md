@@ -8,9 +8,21 @@
 
 <img src="https://raw.githubusercontent.com/rfyiamcool/golang_logo/master/png/golang_76.png" width="35%">
 
-- [源码分析 kubernetes apisix ingress controller 控制器的实现原理](https://github.com/rfyiamcool/notes/blob/main/kubernetes_apisix_ingress_controller_code.md)
+- [源码分析 kubernetes scheduler 核心调度器的实现原理](https://github.com/rfyiamcool/notes/blob/main/kubernetes_scheduler_code.md)
+
+- [源码分析 kubernetes scheduler framework 插件的实现原理](https://github.com/rfyiamcool/notes/blob/main/kubernetes_scheduler_code.md)
+
+- [源码分析 kubernetes nodeipam controller cidr 地址分配的实现原理](https://github.com/rfyiamcool/notes/blob/main/kubernetes_nodeipam_controller_code.md)
+
+- [源码分析头条 kubernetes kubebrain 元数据存储的设计实现原理](https://github.com/rfyiamcool/notes/blob/main/kubebrain_metadata_for_etcd.md)
+
+- [源码分析 kubernetes apisix ingress controller 控制器的实现原理 (一)](https://github.com/rfyiamcool/notes/blob/main/kubernetes_apisix_ingress_controller_code.md)
+
+- [源码分析 kubernetes apisix ingress controller 控制器的实现原理 (二)](https://github.com/rfyiamcool/notes/blob/main/kubernetes_apisix_ingress_controller_crd_cache_code.md)
 
 - [源码分析 kubernetes hpa controller 水平自动扩缩容的实现原理](https://github.com/rfyiamcool/notes/blob/main/kubernetes_hpa_controller_code.md)
+
+- [源码分析 kubernetes client-go workqueue 的实现原理](https://github.com/rfyiamcool/notes/blob/main/kubernetes_client_go_workqueue_code.md)
 
 - [源码分析 kubernetes client-go list-watch 和 informer 机制的实现原理](https://github.com/rfyiamcool/notes/blob/main/kubernetes_client_go_informer.md)
 
