@@ -86,9 +86,11 @@
 
 ### golang bitcask rosedb
 
+- [源码分析基于 bitcask 的 rosedb KV 存储引擎的设计实现](https://github.com/rfyiamcool/notes/blob/main/rosedb_bitcask_summary.md)
 - [源码分析基于 bitcask 的 rosedb 存储引擎内数据结构设计实现 (一)](https://github.com/rfyiamcool/notes/blob/main/rosedb_bitcask_struct_1.md)
 - [源码分析基于 bitcask 的 rosedb 存储引擎内数据结构设计实现 (二)](https://github.com/rfyiamcool/notes/blob/main/rosedb_bitcask_struct_2.md)
 - [源码分析基于 bitcask 的 rosedb 存储引擎 Compaction GC 合并垃圾回收的实现](https://github.com/rfyiamcool/notes/blob/main/rosedb_bitcask_compaction_gc.md)
+- [源码分析基于 bitcask 的 rosedb 存储引擎初始化和关闭的实现](https://github.com/rfyiamcool/notes/blob/main/rosedb_bitcask_open_close.md)
 
 ### traefik
 
@@ -103,6 +105,8 @@
 ### other
 
 <img src="https://raw.githubusercontent.com/rfyiamcool/golang_logo/master/png/golang_53.png" width="35%">
+
+- [golang ristretto 高性能缓存的设计实现原理](https://github.com/rfyiamcool/notes/blob/main/golang_ristretto_cache.md)
 
 - [如何分析查看 page cahce 内存中缓存了哪些文件 ( mmap + mincore )?](https://github.com/rfyiamcool/notes/blob/main/which_files_occupy_page_cache_memory.md)
 
